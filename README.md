@@ -8,3 +8,4 @@ Hello ! 👋 I'm Shristy Singh
 - 📫 How to reach me: Linkdin --> https://www.linkedin.com/in/shristy-singh-2103b8224/ 
 - 😄 Pronouns: She/Her
  
+<img src="https://github-readme-stats.vercel.app/api?username=pshristy05"/>
