@@ -9,3 +9,4 @@ Hello ! 👋 I'm Shristy Singh
 - 😄 Pronouns: She/Her
  
 <img src="https://github-readme-stats.vercel.app/api?username=pshristy05"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshristy05&theme=tokyonight"/>
